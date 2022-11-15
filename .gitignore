@@ -10,3 +10,4 @@ node_modules
 .vagrant
 package-lock.json
 prebuilds
+bin
